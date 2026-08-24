@@ -1,4 +1,5 @@
-# Local RAG Web
+# Local RAG 
+<img width="1917" height="860" alt="Ekran görüntüsü 2026-08-24 200038" src="https://github.com/user-attachments/assets/299826d2-431a-4f1c-a887-ba27b87b9fe9" />
 
 A local retrieval-augmented generation application for searching a Turkish
 document corpus and producing grounded answers with Foundry Local.
