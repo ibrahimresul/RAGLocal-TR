@@ -1,0 +1,23 @@
+[
+  {
+    "name": "git_definition",
+    "question": "Git nedir ve ne için kullanılır?",
+    "expected_source": "08-git-version-control.docx",
+    "min_score": 0.40,
+    "expected_terms": ["dağıtık", "sürüm kontrol", "Torvalds"]
+  },
+  {
+    "name": "artificial_intelligence_definition",
+    "question": "Yapay zeka nedir?",
+    "expected_source": "07-artificial-intelligence.docx",
+    "min_score": 0.40,
+    "expected_terms": ["öğrenme", "akıl yürütme", "problem çözme"]
+  },
+  {
+    "name": "data_structure_definition",
+    "question": "Veri yapısı nedir?",
+    "expected_source": "09-data-structures.docx",
+    "min_score": 0.40,
+    "expected_terms": ["saklanması", "işlenmesi", "algoritma"]
+  }
+]
