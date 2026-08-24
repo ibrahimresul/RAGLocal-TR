@@ -1,0 +1,152 @@
+{
+  "exported_at": "2026-08-24T16:59:34.368257+00:00",
+  "entries": [
+    {
+      "id": 1,
+      "created_at": "2026-08-24T16:41:13.510896+00:00",
+      "question": "Yapay zeka nedir?",
+      "answer": "Yapay zekâ, hesaplama sistemlerinin öğrenme, akıl yürütme, problem çözme, algılama ve karar verme gibi insan zekâsıyla ilişkilendirilen görevleri yerine getirme yeteneğidir. Yapay zekâ, idealleştirilmiş bir perspektife göre insan zekâsına özgü yüksek bilişsel fonksiyonları veya otonom davranışları sergileyen bir yapay işletim sistemidir.",
+      "mode": "fallback_extractive",
+      "best_score": 0.8571559190750122,
+      "source_filter": null,
+      "sources": [
+        {
+          "id": 664,
+          "source_name": "07-artificial-intelligence.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 4,
+          "score": 0.8571559190750122,
+          "context_role": "matched"
+        },
+        {
+          "id": 662,
+          "source_name": "07-artificial-intelligence.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 2,
+          "score": 0.7488954067230225,
+          "context_role": "matched"
+        }
+      ],
+      "timings": {
+        "retrieval_seconds": 1.1342614000022877,
+        "generation_seconds": 25.930559600004926,
+        "total_seconds": 27.06561829999555
+      }
+    },
+    {
+      "id": 2,
+      "created_at": "2026-08-24T16:41:55.587866+00:00",
+      "question": "Veri yapısı nedir?",
+      "answer": "Veri Yapısı Veri yapısı, bilgisayar ortamında verilerin etkin olarak saklanması ve işlenmesi için kullanılan yapıdır. Bilgisayar biliminde veri yapısı, genellikle verilere verimli erişim için seçilen bir veri organizasyonu ve depolama biçimidir.",
+      "mode": "fallback_extractive",
+      "best_score": 0.7970992922782898,
+      "source_filter": null,
+      "sources": [
+        {
+          "id": 699,
+          "source_name": "09-data-structures.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 1,
+          "score": 0.7970992922782898,
+          "context_role": "matched"
+        },
+        {
+          "id": 703,
+          "source_name": "09-data-structures.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 5,
+          "score": 0.6218916177749634,
+          "context_role": "matched"
+        },
+        {
+          "id": 700,
+          "source_name": "09-data-structures.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 2,
+          "score": 0.6567776799201965,
+          "context_role": "matched"
+        },
+        {
+          "id": 701,
+          "source_name": "09-data-structures.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 3,
+          "score": 0.5970684885978699,
+          "context_role": "neighbor"
+        }
+      ],
+      "timings": {
+        "retrieval_seconds": 0.05687870000838302,
+        "generation_seconds": 25.917159699994954,
+        "total_seconds": 25.974654900011956
+      }
+    },
+    {
+      "id": 3,
+      "created_at": "2026-08-24T16:42:37.034616+00:00",
+      "question": "İşletim sistemlerinin temel görevleri nelerdir?",
+      "answer": "İşletim sistemleri, bilgisayarın donanımı ile uygulama yazılımları arasında bir köprü görevi görerek kullanıcıların sistemle etkileşim kurmasını sağlar. İşletim sistemleri, sahip oldukları işlevlerin genişliği ile değil, donanım kaynaklarını verimli kullanma yetenekleriyle değerlendirilmelidir. Modern işletim sistemleri, çoklu görev yönetimi, bellek yönetimi, dosya sistemleri ve kullanıcı arabirimi gibi kritik işlevleri yerine getirir ve cihazların performansını optimize eder.",
+      "mode": "fallback_extractive",
+      "best_score": 0.7641550302505493,
+      "source_filter": null,
+      "sources": [
+        {
+          "id": 715,
+          "source_name": "10-operating-systems.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 1,
+          "score": 0.7641550302505493,
+          "context_role": "matched"
+        },
+        {
+          "id": 589,
+          "source_name": "01-software.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 7,
+          "score": 0.614560604095459,
+          "context_role": "matched"
+        },
+        {
+          "id": 718,
+          "source_name": "10-operating-systems.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 4,
+          "score": 0.6508973836898804,
+          "context_role": "matched"
+        },
+        {
+          "id": 716,
+          "source_name": "10-operating-systems.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 2,
+          "score": 0.6078039407730103,
+          "context_role": "neighbor"
+        },
+        {
+          "id": 588,
+          "source_name": "01-software.docx",
+          "source_type": "docx",
+          "page_number": null,
+          "chunk_index": 6,
+          "score": 0.5734157562255859,
+          "context_role": "neighbor"
+        }
+      ],
+      "timings": {
+        "retrieval_seconds": 0.0843855999992229,
+        "generation_seconds": 26.176649600005476,
+        "total_seconds": 26.262072800003807
+      }
+    }
+  ]
+}
